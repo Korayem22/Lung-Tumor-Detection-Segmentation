@@ -1,0 +1,1134 @@
+2025-05-23 19:21:54,665 - INFO - Loading UNet model weights...
+2025-05-23 19:21:54,883 - INFO - Model loaded successfully.
+2025-05-23 19:21:55,591 - INFO - Running full image segmentation.
+2025-05-23 19:21:55,591 - INFO - Received image for segmentation.
+2025-05-23 19:21:56,036 - INFO - Segmentation completed.
+2025-05-23 19:24:14,588 - INFO - Loading UNet model weights...
+2025-05-23 19:24:14,712 - INFO - Model loaded successfully.
+2025-05-23 19:24:15,427 - INFO - Running full image segmentation.
+2025-05-23 19:24:15,429 - INFO - Received image for segmentation.
+2025-05-23 19:24:15,952 - INFO - Segmentation completed.
+2025-05-23 19:26:50,154 - INFO - Loading UNet model weights...
+2025-05-23 19:26:50,394 - INFO - Model loaded successfully.
+2025-05-23 19:26:51,082 - INFO - Running full image segmentation.
+2025-05-23 19:26:51,082 - INFO - Received image for segmentation.
+2025-05-23 19:26:51,473 - INFO - Segmentation completed.
+2025-05-23 19:28:28,043 - INFO - Loading UNet model weights...
+2025-05-23 19:28:28,188 - INFO - Model loaded successfully.
+2025-05-23 19:28:29,096 - INFO - Running full image segmentation.
+2025-05-23 19:28:29,096 - INFO - Received image for segmentation.
+2025-05-23 19:28:29,525 - INFO - Segmentation completed.
+2025-05-23 19:33:11,887 - INFO - Loading UNet model weights...
+2025-05-23 19:33:11,995 - INFO - Model loaded successfully.
+2025-05-23 19:33:12,311 - INFO - Running full image segmentation.
+2025-05-23 19:33:12,311 - INFO - Received image for segmentation.
+2025-05-23 19:33:12,525 - INFO - Segmentation completed.
+2025-05-23 19:36:24,288 - INFO - Loading UNet model weights...
+2025-05-23 19:36:24,408 - INFO - Model loaded successfully.
+2025-05-23 19:36:24,735 - INFO - Running full image segmentation.
+2025-05-23 19:36:24,735 - INFO - Received image for segmentation.
+2025-05-23 19:36:24,971 - INFO - Segmentation completed.
+2025-05-23 19:38:21,270 - INFO - Loading UNet model weights...
+2025-05-23 19:38:21,359 - INFO - Model loaded successfully.
+2025-05-23 19:38:21,678 - INFO - Running full image segmentation.
+2025-05-23 19:38:21,679 - INFO - Received image for segmentation.
+2025-05-23 19:38:21,888 - INFO - Segmentation completed.
+2025-05-23 19:48:44,158 - INFO - Loading UNet model weights...
+2025-05-23 19:48:44,263 - INFO - Model loaded successfully.
+2025-05-23 19:48:44,266 - INFO - Running test segmentation on: C:\\Users\\alaa6\Documents\\ITI\Advanced Computer Vision\\Lung-Tumor-Detection-Segmentation\\image.png
+2025-05-23 19:48:44,266 - INFO - Running full image segmentation.
+2025-05-23 19:51:02,443 - INFO - Loading UNet model weights...
+2025-05-23 19:51:02,558 - INFO - Model loaded successfully.
+2025-05-23 19:51:02,570 - INFO - Running test segmentation on: C:\\Users\\alaa6\Documents\\ITI\Advanced Computer Vision\\Lung-Tumor-Detection-Segmentation\\val\\images\\Subject_57\\205.png
+2025-05-23 19:51:02,570 - INFO - Running full image segmentation.
+2025-05-23 19:53:34,757 - INFO - Loading UNet model weights...
+2025-05-23 19:53:34,840 - INFO - Model loaded successfully.
+2025-05-23 19:53:34,842 - INFO - Found 98 total images.
+2025-05-23 19:53:34,843 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 19:53:35,057 - INFO - 0.png Dice score: 1.0000
+2025-05-23 19:53:35,058 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 19:53:35,072 - INFO - 1.png Dice score: 1.0000
+2025-05-23 19:53:35,074 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 19:53:35,091 - INFO - 10.png Dice score: 1.0000
+2025-05-23 19:53:35,092 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 19:53:35,106 - INFO - 100.png Dice score: 1.0000
+2025-05-23 19:53:35,107 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 19:53:35,129 - INFO - 101.png Dice score: 1.0000
+2025-05-23 19:53:35,130 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 19:53:35,154 - INFO - 201.png Dice score: 0.6250
+2025-05-23 19:53:35,154 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 19:53:35,181 - INFO - 202.png Dice score: 0.5000
+2025-05-23 19:53:35,182 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 19:53:35,207 - INFO - 203.png Dice score: 0.5752
+2025-05-23 19:53:35,207 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 19:53:35,238 - INFO - 204.png Dice score: 0.5876
+2025-05-23 19:53:35,239 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 19:53:35,256 - INFO - 205.png Dice score: 0.6066
+2025-05-23 19:53:35,256 - INFO - Batch inference completed.
+2025-05-23 19:53:35,257 - INFO - Script completed.
+2025-05-23 19:56:01,388 - INFO - Loading UNet model weights...
+2025-05-23 19:56:01,475 - INFO - Model loaded successfully.
+2025-05-23 19:56:01,477 - INFO - Found 98 total images.
+2025-05-23 19:56:01,477 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 19:56:01,697 - INFO - 0.png Dice score: 1.0000
+2025-05-23 19:56:01,698 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 19:56:01,703 - INFO - 1.png Dice score: 1.0000
+2025-05-23 19:56:01,704 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 19:56:01,709 - INFO - 10.png Dice score: 1.0000
+2025-05-23 19:56:01,710 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 19:56:01,716 - INFO - 100.png Dice score: 1.0000
+2025-05-23 19:56:01,717 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 19:56:01,727 - INFO - 101.png Dice score: 1.0000
+2025-05-23 19:56:01,729 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 19:56:01,737 - INFO - 201.png Dice score: 0.6250
+2025-05-23 19:56:01,737 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 19:56:01,744 - INFO - 202.png Dice score: 0.5000
+2025-05-23 19:56:01,745 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 19:56:01,752 - INFO - 203.png Dice score: 0.5752
+2025-05-23 19:56:01,752 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 19:56:01,761 - INFO - 204.png Dice score: 0.5876
+2025-05-23 19:56:01,763 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 19:56:01,772 - INFO - 205.png Dice score: 0.6066
+2025-05-23 19:56:01,772 - INFO - Batch inference completed.
+2025-05-23 19:57:12,824 - INFO - Loading UNet model weights...
+2025-05-23 19:57:12,919 - INFO - Model loaded successfully.
+2025-05-23 19:57:12,920 - INFO - Found 98 total images.
+2025-05-23 19:57:12,920 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 19:57:13,118 - INFO - 0.png Dice score: 1.0000
+2025-05-23 19:57:20,651 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 19:57:20,667 - INFO - 1.png Dice score: 1.0000
+2025-05-23 19:57:24,507 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 19:57:24,531 - INFO - 10.png Dice score: 1.0000
+2025-05-23 19:57:27,015 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 19:57:27,040 - INFO - 100.png Dice score: 1.0000
+2025-05-23 19:57:29,566 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 19:57:29,588 - INFO - 101.png Dice score: 1.0000
+2025-05-23 19:57:31,681 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 19:57:31,711 - INFO - 201.png Dice score: 0.6250
+2025-05-23 19:57:38,520 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 19:57:38,551 - INFO - 202.png Dice score: 0.5000
+2025-05-23 19:57:41,808 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 19:57:41,835 - INFO - 203.png Dice score: 0.5752
+2025-05-23 19:57:46,216 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 19:57:46,243 - INFO - 204.png Dice score: 0.5876
+2025-05-23 19:57:49,145 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 19:57:49,173 - INFO - 205.png Dice score: 0.6066
+2025-05-23 19:57:51,400 - INFO - Batch inference completed.
+2025-05-23 19:57:51,403 - INFO - Done.
+2025-05-23 19:59:14,084 - INFO - Loading UNet model weights...
+2025-05-23 19:59:14,172 - INFO - Model loaded successfully.
+2025-05-23 19:59:14,173 - INFO - Found 98 total images.
+2025-05-23 19:59:14,174 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 19:59:14,357 - INFO - 0.png Dice score: 1.0000
+2025-05-23 19:59:14,359 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 19:59:14,363 - INFO - 1.png Dice score: 1.0000
+2025-05-23 19:59:14,365 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 19:59:14,372 - INFO - 10.png Dice score: 1.0000
+2025-05-23 19:59:14,372 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 19:59:14,380 - INFO - 100.png Dice score: 1.0000
+2025-05-23 19:59:14,380 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 19:59:14,387 - INFO - 101.png Dice score: 1.0000
+2025-05-23 19:59:14,388 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 19:59:14,394 - INFO - 201.png Dice score: 0.6250
+2025-05-23 19:59:14,394 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 19:59:14,405 - INFO - 202.png Dice score: 0.5000
+2025-05-23 19:59:14,406 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 19:59:14,415 - INFO - 203.png Dice score: 0.5752
+2025-05-23 19:59:14,415 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 19:59:14,422 - INFO - 204.png Dice score: 0.5876
+2025-05-23 19:59:14,423 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 19:59:14,433 - INFO - 205.png Dice score: 0.6066
+2025-05-23 19:59:19,241 - INFO - Batch inference completed.
+2025-05-23 19:59:19,241 - INFO - Done.
+2025-05-23 20:00:21,023 - INFO - Loading UNet model weights...
+2025-05-23 20:00:21,102 - INFO - Model loaded successfully.
+2025-05-23 20:00:21,103 - INFO - Found 98 total images.
+2025-05-23 20:00:21,103 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:00:21,294 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:00:24,828 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:00:24,841 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:00:26,345 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:00:26,359 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:00:27,909 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:00:27,923 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:00:29,535 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:00:29,558 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:00:31,112 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:00:31,133 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:00:34,001 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:00:34,035 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:00:36,529 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:00:36,562 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:00:39,234 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:00:39,259 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:00:42,130 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:00:42,160 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:00:44,218 - INFO - Batch inference completed.
+2025-05-23 20:00:44,220 - INFO - Done.
+2025-05-23 20:02:40,534 - INFO - Loading UNet model weights...
+2025-05-23 20:02:40,620 - INFO - Model loaded successfully.
+2025-05-23 20:04:51,216 - INFO - Loading UNet model weights...
+2025-05-23 20:04:51,304 - INFO - Model loaded successfully.
+2025-05-23 20:04:51,306 - INFO - Found 98 total images.
+2025-05-23 20:04:51,306 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:04:51,501 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:04:51,501 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:04:51,511 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:04:51,512 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:04:51,518 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:04:51,520 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:04:51,529 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:04:51,530 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:04:51,538 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:04:51,540 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:04:51,545 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:04:51,546 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:04:51,552 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:04:51,553 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:04:51,561 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:04:51,562 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:04:51,570 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:04:51,570 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:04:51,578 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:04:51,578 - INFO - Batch inference completed. Preparing combined plot...
+2025-05-23 20:05:02,011 - INFO - Done.
+2025-05-23 20:06:02,628 - INFO - Loading UNet model weights...
+2025-05-23 20:06:02,718 - INFO - Model loaded successfully.
+2025-05-23 20:06:02,719 - INFO - Found 98 total images.
+2025-05-23 20:06:02,719 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:06:02,923 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:06:02,924 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:06:02,932 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:06:02,932 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:06:02,939 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:06:02,939 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:06:02,948 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:06:02,949 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:06:02,959 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:06:02,959 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:06:02,967 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:06:02,968 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:06:02,975 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:06:02,977 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:06:02,985 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:06:02,985 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:06:02,994 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:06:02,995 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:06:03,008 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:06:03,009 - INFO - Batch inference completed. Preparing combined plot...
+2025-05-23 20:06:23,508 - INFO - Loading UNet model weights...
+2025-05-23 20:06:23,592 - INFO - Model loaded successfully.
+2025-05-23 20:06:23,593 - INFO - Found 98 total images.
+2025-05-23 20:06:23,593 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:06:23,778 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:06:23,779 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:06:23,785 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:06:23,785 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:06:23,792 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:06:23,793 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:06:23,799 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:06:23,800 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:06:23,812 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:06:23,812 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:06:23,820 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:06:23,821 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:06:23,828 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:06:23,828 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:06:23,835 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:06:23,835 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:06:23,841 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:06:23,841 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:06:23,849 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:06:23,850 - INFO - Batch inference completed. Preparing combined plot...
+2025-05-23 20:06:30,396 - INFO - Done.
+2025-05-23 20:06:46,751 - INFO - Loading UNet model weights...
+2025-05-23 20:06:46,830 - INFO - Model loaded successfully.
+2025-05-23 20:06:46,831 - INFO - Found 98 total images.
+2025-05-23 20:06:46,832 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:06:47,043 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:06:47,043 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:06:47,050 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:06:47,050 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:06:47,056 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:06:47,058 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:06:47,065 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:06:47,065 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:06:47,075 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:06:47,076 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:06:47,084 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:06:47,084 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:06:47,091 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:06:47,093 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:06:47,101 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:06:47,103 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:06:47,110 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:06:47,111 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:06:47,118 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:06:47,118 - INFO - Batch inference completed. Preparing combined plot...
+2025-05-23 20:06:51,011 - INFO - Done.
+2025-05-23 20:07:03,709 - INFO - Loading UNet model weights...
+2025-05-23 20:07:03,792 - INFO - Model loaded successfully.
+2025-05-23 20:07:03,793 - INFO - Found 98 total images.
+2025-05-23 20:07:03,794 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:07:03,987 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:07:03,988 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:07:03,995 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:07:03,996 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:07:04,005 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:07:04,007 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:07:04,019 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:07:04,020 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:07:04,027 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:07:04,028 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:07:04,037 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:07:04,038 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:07:04,045 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:07:04,047 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:07:04,054 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:07:04,055 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:07:04,062 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:07:04,063 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:07:04,072 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:07:04,073 - INFO - Batch inference completed. Preparing combined plot...
+2025-05-23 20:07:12,747 - INFO - Done.
+2025-05-23 20:07:49,294 - INFO - Loading UNet model weights...
+2025-05-23 20:07:49,375 - INFO - Model loaded successfully.
+2025-05-23 20:07:49,376 - INFO - Found 98 total images.
+2025-05-23 20:07:49,377 - INFO - [1/10] Processing Subject_57/0.png
+2025-05-23 20:07:49,570 - INFO - 0.png Dice score: 1.0000
+2025-05-23 20:07:54,166 - INFO - [2/10] Processing Subject_57/1.png
+2025-05-23 20:07:54,174 - INFO - 1.png Dice score: 1.0000
+2025-05-23 20:07:55,143 - INFO - [3/10] Processing Subject_57/10.png
+2025-05-23 20:07:55,156 - INFO - 10.png Dice score: 1.0000
+2025-05-23 20:07:55,793 - INFO - [4/10] Processing Subject_57/100.png
+2025-05-23 20:07:55,806 - INFO - 100.png Dice score: 1.0000
+2025-05-23 20:07:56,571 - INFO - [5/10] Processing Subject_57/101.png
+2025-05-23 20:07:56,585 - INFO - 101.png Dice score: 1.0000
+2025-05-23 20:07:57,199 - INFO - [6/10] Processing Subject_57/201.png
+2025-05-23 20:07:57,228 - INFO - 201.png Dice score: 0.6061
+2025-05-23 20:07:57,872 - INFO - [7/10] Processing Subject_57/202.png
+2025-05-23 20:07:57,896 - INFO - 202.png Dice score: 0.4872
+2025-05-23 20:07:58,599 - INFO - [8/10] Processing Subject_57/203.png
+2025-05-23 20:07:58,646 - INFO - 203.png Dice score: 0.5677
+2025-05-23 20:07:59,218 - INFO - [9/10] Processing Subject_57/204.png
+2025-05-23 20:07:59,249 - INFO - 204.png Dice score: 0.5888
+2025-05-23 20:07:59,915 - INFO - [10/10] Processing Subject_57/205.png
+2025-05-23 20:07:59,947 - INFO - 205.png Dice score: 0.5899
+2025-05-23 20:08:00,601 - INFO - Batch inference completed.
+2025-05-23 20:08:00,604 - INFO - Done.
+2025-05-23 20:20:43,197 - INFO - Loading UNet model weights...
+2025-05-23 20:20:43,305 - INFO - Model loaded successfully.
+2025-05-23 20:20:43,306 - INFO - Found 98 total images.
+2025-05-23 20:20:43,503 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:43,521 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:43,544 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:43,569 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:43,589 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:43,612 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:20:43,634 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:20:43,655 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:20:43,672 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:20:43,690 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:20:43,733 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:20:43,779 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:20:43,806 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:20:43,828 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:20:43,856 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:20:43,878 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:20:43,902 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:20:43,928 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:20:43,954 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:20:43,976 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:20:43,998 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:20:44,031 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:20:44,059 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:20:44,078 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:44,097 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:44,113 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:44,137 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:20:44,159 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:20:44,181 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,207 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,231 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,255 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,274 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,296 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,321 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:20:44,344 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:20:44,367 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:20:44,391 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:20:44,422 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:20:44,445 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:20:44,466 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:20:44,489 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:20:44,517 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:20:44,539 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:20:44,566 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:20:44,586 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:20:44,615 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:20:44,636 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:20:44,670 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:20:44,695 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:20:44,720 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:20:44,743 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:20:44,768 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:20:44,788 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:20:44,819 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:20:44,838 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:20:44,861 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,880 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,906 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,929 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,950 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,975 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:44,998 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,020 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,039 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:20:45,060 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,077 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,094 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,117 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,142 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:20:45,174 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:20:45,200 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:20:45,227 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:20:45,261 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,282 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,307 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,328 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,351 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,372 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,396 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:20:45,427 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:20:45,450 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:20:45,473 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,495 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,513 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:20:45,527 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,544 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,566 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,583 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:20:45,607 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,632 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:20:45,650 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:20:45,672 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:20:45,697 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,721 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,741 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:20:45,768 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:20:45,795 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:20:45,797 - INFO - Generating combined visualization...
+2025-05-23 20:23:10,074 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:23:10,075 - INFO - Dice:     0.4556
+2025-05-23 20:23:10,076 - INFO - IoU:      0.3880
+2025-05-23 20:23:10,077 - INFO - Precision:0.8384
+2025-05-23 20:23:10,077 - INFO - Recall:   0.4749
+2025-05-23 20:23:10,078 - INFO - Segmentation Inference complete.
+2025-05-23 20:23:28,256 - INFO - Loading UNet model weights...
+2025-05-23 20:23:28,339 - INFO - Model loaded successfully.
+2025-05-23 20:23:28,341 - INFO - Found 98 total images.
+2025-05-23 20:23:28,531 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,537 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,543 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,552 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,561 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,567 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:23:28,573 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:23:28,581 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:23:28,587 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:23:28,595 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:23:28,603 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:23:28,612 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:23:28,619 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:23:28,626 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:23:28,632 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:23:28,639 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:23:28,645 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:23:28,652 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:23:28,659 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:23:28,665 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:23:28,679 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:23:28,694 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:23:28,708 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:23:28,719 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,730 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,741 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:28,750 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:23:28,766 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:23:28,773 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,781 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,787 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,794 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,801 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,813 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,820 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:23:28,827 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:23:28,834 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:23:28,845 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:23:28,852 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:23:28,858 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:23:28,865 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:23:28,872 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:23:28,879 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:23:28,885 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:23:28,892 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:23:28,899 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:23:28,905 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:23:28,913 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:23:28,919 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:23:28,926 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:23:28,932 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:23:28,939 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:23:28,946 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:23:28,953 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:23:28,962 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:23:28,968 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:23:28,975 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,982 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,988 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:28,995 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,006 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,015 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,021 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,030 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,036 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:23:29,044 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,050 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,056 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,063 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,069 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:23:29,076 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:23:29,081 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:23:29,089 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:23:29,095 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,102 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,109 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,116 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,125 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,133 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,140 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:23:29,147 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:23:29,154 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:23:29,161 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,168 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,174 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:23:29,181 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,187 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,195 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,202 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:23:29,216 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,224 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:23:29,230 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:23:29,237 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:23:29,243 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,250 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,257 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:23:29,263 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:23:29,271 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:23:29,272 - INFO - Generating combined visualization...
+2025-05-23 20:23:44,993 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:23:44,993 - INFO - Dice:     0.4556
+2025-05-23 20:23:44,993 - INFO - IoU:      0.3880
+2025-05-23 20:23:44,994 - INFO - Precision:0.8384
+2025-05-23 20:23:44,994 - INFO - Recall:   0.4749
+2025-05-23 20:23:44,994 - INFO - Segmentation Inference complete.
+2025-05-23 20:27:17,952 - INFO - Loading UNet model weights...
+2025-05-23 20:27:18,036 - INFO - Model loaded successfully.
+2025-05-23 20:27:18,038 - INFO - Found 98 total images.
+2025-05-23 20:27:18,227 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:27:18,234 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:27:18,240 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:27:18,247 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:27:18,255 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:27:18,262 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,270 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:27:18,276 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:27:18,284 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:27:18,290 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,299 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:27:18,304 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,311 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,317 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:27:18,324 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,330 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:27:18,336 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:27:18,343 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,350 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,358 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:27:18,366 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,374 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,380 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:18,387 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,394 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,400 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,413 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,421 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:27:18,428 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:27:18,435 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,441 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,447 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:27:18,454 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:27:18,461 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:27:18,468 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,474 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:27:18,481 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:27:18,489 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:27:18,496 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:18,504 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,510 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:27:18,516 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:18,524 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:18,530 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:18,537 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,544 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,551 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:27:18,559 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:27:18,566 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:27:18,573 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:27:18,581 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,586 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,592 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,600 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:18,612 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:27:18,618 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,628 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,634 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:27:18,641 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,647 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:18,654 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:27:18,661 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:27:18,668 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,675 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:27:18,684 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:27:18,693 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,702 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:27:18,709 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,716 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:27:18,723 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:27:18,730 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:27:18,738 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,746 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,753 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:27:18,761 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:27:18,767 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,774 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,781 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:27:18,788 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,795 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,801 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:18,811 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,820 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,827 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,834 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:27:18,841 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:18,848 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,854 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:27:18,861 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:27:18,868 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,874 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,881 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:18,888 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:27:18,897 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:27:18,904 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:18,911 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:27:18,918 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:27:18,924 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:27:18,925 - INFO - Generating combined visualization...
+2025-05-23 20:27:26,352 - INFO - Displaying the following 10 random samples:
+2025-05-23 20:27:26,353 - INFO - - Subject_58/284.png
+Dice: 0.7816
+2025-05-23 20:27:26,353 - INFO - - Subject_57/201.png
+Dice: 0.6250
+2025-05-23 20:27:26,353 - INFO - - Subject_58/291.png
+Dice: 0.6687
+2025-05-23 20:27:26,353 - INFO - - Subject_57/212.png
+Dice: 0.7551
+2025-05-23 20:27:26,354 - INFO - - Subject_58/289.png
+Dice: 0.7059
+2025-05-23 20:27:26,354 - INFO - - Subject_60/1.png
+Dice: 1.0000
+2025-05-23 20:27:26,354 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:27:26,354 - INFO - Dice:     0.4556
+2025-05-23 20:27:26,354 - INFO - IoU:      0.3880
+2025-05-23 20:27:26,355 - INFO - Precision:0.8384
+2025-05-23 20:27:26,355 - INFO - Recall:   0.4749
+2025-05-23 20:27:26,355 - INFO - Segmentation Inference complete.
+2025-05-23 20:27:42,620 - INFO - Loading UNet model weights...
+2025-05-23 20:27:42,704 - INFO - Model loaded successfully.
+2025-05-23 20:27:42,706 - INFO - Found 98 total images.
+2025-05-23 20:27:42,892 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:27:42,898 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:27:42,907 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:27:42,918 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:42,926 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:27:42,932 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:27:42,942 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:42,948 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:27:42,956 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:27:42,963 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:27:42,970 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:42,976 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:42,984 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:42,991 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:42,998 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,011 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:27:43,017 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,023 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,033 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:27:43,042 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:27:43,049 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:27:43,055 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:27:43,061 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:27:43,067 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:27:43,074 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:27:43,084 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:27:43,090 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:27:43,099 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:27:43,107 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,113 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:27:43,119 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:43,125 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:27:43,131 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:27:43,138 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,145 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,152 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,159 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,167 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,184 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:27:43,200 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:27:43,214 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,223 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,231 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,246 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,258 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,264 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:27:43,270 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,277 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:27:43,284 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:27:43,290 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,298 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,304 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,309 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,317 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:27:43,323 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,331 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,336 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:27:43,344 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,351 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,359 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:43,366 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:27:43,372 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:43,379 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:43,386 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:27:43,393 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,400 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:27:43,412 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:27:43,418 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:27:43,425 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,432 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,439 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:27:43,445 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,451 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:27:43,457 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,464 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:27:43,471 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,478 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,488 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:27:43,496 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:27:43,502 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:27:43,510 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,516 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:27:43,523 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,532 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:27:43,539 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:27:43,545 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,553 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,561 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:27:43,566 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:27:43,574 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,580 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:27:43,587 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:27:43,596 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:27:43,606 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:27:43,614 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:27:43,621 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,628 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,634 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:27:43,635 - INFO - Generating combined visualization...
+2025-05-23 20:27:57,562 - INFO - Displaying the following 10 random samples:
+2025-05-23 20:27:57,563 - INFO - - Subject_57/207.png
+Dice: 0.6633
+2025-05-23 20:27:57,566 - INFO - - Subject_57/211.png
+Dice: 0.8413
+2025-05-23 20:27:57,566 - INFO - - Subject_58/284.png
+Dice: 0.7816
+2025-05-23 20:27:57,567 - INFO - - Subject_60/54.png
+Dice: 0.0000
+2025-05-23 20:27:57,567 - INFO - - Subject_57/205.png
+Dice: 0.6066
+2025-05-23 20:27:57,567 - INFO - - Subject_57/208.png
+Dice: 0.8272
+2025-05-23 20:27:57,567 - INFO - - Subject_60/52.png
+Dice: 0.0000
+2025-05-23 20:27:57,567 - INFO - - Subject_59/79.png
+Dice: 0.3077
+2025-05-23 20:27:57,568 - INFO - - Subject_59/76.png
+Dice: 0.4722
+2025-05-23 20:27:57,568 - INFO - - Subject_58/290.png
+Dice: 0.6943
+2025-05-23 20:27:57,568 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:27:57,568 - INFO - Dice:     0.4556
+2025-05-23 20:27:57,568 - INFO - IoU:      0.3880
+2025-05-23 20:27:57,569 - INFO - Precision:0.8384
+2025-05-23 20:27:57,569 - INFO - Recall:   0.4749
+2025-05-23 20:27:57,569 - INFO - Segmentation Inference complete.
+2025-05-23 20:28:29,247 - INFO - Loading UNet model weights...
+2025-05-23 20:28:29,345 - INFO - Model loaded successfully.
+2025-05-23 20:28:29,346 - INFO - Found 98 total images.
+2025-05-23 20:28:29,562 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:28:29,570 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:28:29,579 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,588 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,596 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:28:29,608 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,617 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:28:29,626 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:28:29,634 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,643 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:28:29,653 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:28:29,660 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,667 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,675 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:28:29,683 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,692 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,700 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:28:29,706 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:28:29,713 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,721 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,728 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:28:29,736 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:28:29,744 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:28:29,751 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,761 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,767 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:28:29,775 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,782 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:28:29,791 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:28:29,799 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,811 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:28:29,818 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,826 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,834 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:28:29,841 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:28:29,849 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:28:29,857 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:28:29,865 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,876 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:28:29,885 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:28:29,893 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,901 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:28:29,909 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:28:29,916 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:28:29,923 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,930 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,938 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:28:29,945 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,952 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,962 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,967 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,977 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,984 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:29,991 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:29,998 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,012 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:28:30,019 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:28:30,027 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:28:30,033 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,042 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:28:30,049 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:30,056 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:30,063 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:28:30,072 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:28:30,078 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:28:30,085 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:28:30,095 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:28:30,104 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:28:30,112 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:28:30,120 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:28:30,126 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:28:30,135 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:30,142 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:28:30,150 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,157 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,166 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:28:30,173 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,181 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:30,189 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,196 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:28:30,207 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,219 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:28:30,226 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:28:30,234 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,242 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:28:30,250 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:28:30,258 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:28:30,266 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:30,275 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:28:30,281 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:28:30,290 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:28:30,298 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:28:30,305 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:28:30,312 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:28:30,320 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:28:30,327 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:28:30,333 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:28:30,342 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:28:30,343 - INFO - Generating combined visualization...
+2025-05-23 20:28:40,811 - INFO - Displaying the following 10 random samples:
+2025-05-23 20:28:40,812 - INFO - - Subject_57/211.png
+Dice: 0.8413
+2025-05-23 20:28:40,812 - INFO - - Subject_58/293.png
+Dice: 0.5754
+2025-05-23 20:28:40,813 - INFO - - Subject_59/101.png
+Dice: 1.0000
+2025-05-23 20:28:40,813 - INFO - - Subject_57/0.png
+Dice: 1.0000
+2025-05-23 20:28:40,813 - INFO - - Subject_58/296.png
+Dice: 0.1053
+2025-05-23 20:28:40,815 - INFO - - Subject_60/1.png
+Dice: 1.0000
+2025-05-23 20:28:40,816 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:28:40,817 - INFO - Dice:     0.4556
+2025-05-23 20:28:40,818 - INFO - IoU:      0.3880
+2025-05-23 20:28:40,818 - INFO - Precision:0.8384
+2025-05-23 20:28:40,818 - INFO - Recall:   0.4749
+2025-05-23 20:28:40,820 - INFO - Segmentation Inference complete.
+2025-05-23 20:29:37,371 - INFO - Loading UNet model weights...
+2025-05-23 20:29:37,462 - INFO - Model loaded successfully.
+2025-05-23 20:29:37,463 - INFO - Found 98 total images.
+2025-05-23 20:29:37,658 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,666 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:29:37,672 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,680 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:29:37,687 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,695 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:29:37,704 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,715 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:29:37,724 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,731 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:29:37,740 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,747 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,755 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:29:37,764 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,772 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,781 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:29:37,788 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:29:37,796 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,806 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,817 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:29:37,826 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,832 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,839 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,845 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:29:37,852 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,859 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:29:37,867 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:29:37,874 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,881 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:29:37,888 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:29:37,895 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,902 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:29:37,910 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:29:37,917 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,924 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,931 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:37,939 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:29:37,946 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:37,954 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:29:37,963 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:29:37,970 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:29:37,980 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:29:37,986 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:29:37,994 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,001 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:29:38,011 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:29:38,017 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:29:38,025 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,032 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:29:38,039 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:29:38,047 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:29:38,053 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,059 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:29:38,065 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:29:38,074 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:29:38,081 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,087 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:29:38,094 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:29:38,100 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,108 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:29:38,116 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:29:38,124 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:29:38,131 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:29:38,137 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:29:38,143 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,150 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,158 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:29:38,165 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,172 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,179 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:29:38,186 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,192 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:29:38,199 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,212 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:29:38,219 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,226 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:29:38,233 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:29:38,239 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,247 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,257 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:29:38,266 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:29:38,275 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,284 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,294 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:29:38,302 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:29:38,310 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:29:38,318 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,325 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,333 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:29:38,341 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:29:38,347 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:29:38,357 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:29:38,365 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:29:38,373 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,381 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:29:38,389 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:29:38,396 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:29:38,406 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:29:38,408 - INFO - Generating combined visualization...
+2025-05-23 20:30:42,267 - INFO - Displaying the following 10 random samples:
+2025-05-23 20:30:42,268 - INFO - - Subject_57/1.png
+Dice: 1.0000
+2025-05-23 20:30:42,268 - INFO - - Subject_57/216.png
+Dice: 0.0000
+2025-05-23 20:30:42,269 - INFO - - Subject_59/80.png
+Dice: 0.0000
+2025-05-23 20:30:42,269 - INFO - - Subject_59/79.png
+Dice: 0.3077
+2025-05-23 20:30:42,269 - INFO - - Subject_60/10.png
+Dice: 1.0000
+2025-05-23 20:30:42,269 - INFO - - Subject_59/77.png
+Dice: 0.6446
+2025-05-23 20:30:42,269 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:30:42,270 - INFO - Dice:     0.4556
+2025-05-23 20:30:42,271 - INFO - IoU:      0.3880
+2025-05-23 20:30:42,271 - INFO - Precision:0.8384
+2025-05-23 20:30:42,271 - INFO - Recall:   0.4749
+2025-05-23 20:30:42,271 - INFO - Segmentation Inference complete.
+2025-05-23 20:32:37,055 - INFO - Loading UNet model weights...
+2025-05-23 20:32:37,140 - INFO - Model loaded successfully.
+2025-05-23 20:32:37,141 - INFO - Found 98 total images.
+2025-05-23 20:32:37,338 - INFO - 269.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,346 - INFO - 201.png | Dice: 0.6250, IoU: 0.4545, Precision: 0.8333, Recall: 0.5000
+2025-05-23 20:32:37,352 - INFO - 282.png | Dice: 0.8034, IoU: 0.6714, Precision: 0.9495, Recall: 0.6963
+2025-05-23 20:32:37,361 - INFO - 288.png | Dice: 0.7633, IoU: 0.6172, Precision: 1.0000, Recall: 0.6172
+2025-05-23 20:32:37,369 - INFO - 294.png | Dice: 0.5776, IoU: 0.4061, Precision: 1.0000, Recall: 0.4061
+2025-05-23 20:32:37,379 - INFO - 203.png | Dice: 0.5752, IoU: 0.4037, Precision: 0.4272, Recall: 0.8800
+2025-05-23 20:32:37,392 - INFO - 218.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:32:37,399 - INFO - 85.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,409 - INFO - 292.png | Dice: 0.7172, IoU: 0.5591, Precision: 0.9720, Recall: 0.5683
+2025-05-23 20:32:37,418 - INFO - 49.png | Dice: 0.1617, IoU: 0.0879, Precision: 1.0000, Recall: 0.0879
+2025-05-23 20:32:37,426 - INFO - 297.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,433 - INFO - 210.png | Dice: 0.8489, IoU: 0.7375, Precision: 0.7564, Recall: 0.9672
+2025-05-23 20:32:37,440 - INFO - 0.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:32:37,447 - INFO - 53.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,454 - INFO - 11.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,460 - INFO - 287.png | Dice: 0.7948, IoU: 0.6595, Precision: 0.9892, Recall: 0.6643
+2025-05-23 20:32:37,467 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,476 - INFO - 51.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,482 - INFO - 77.png | Dice: 0.6446, IoU: 0.4756, Precision: 1.0000, Recall: 0.4756
+2025-05-23 20:32:37,490 - INFO - 75.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,497 - INFO - 90.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,504 - INFO - 270.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,511 - INFO - 12.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,519 - INFO - 276.png | Dice: 0.5796, IoU: 0.4080, Precision: 0.8875, Recall: 0.4303
+2025-05-23 20:32:37,525 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,531 - INFO - 301.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,539 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,545 - INFO - 290.png | Dice: 0.6943, IoU: 0.5317, Precision: 1.0000, Recall: 0.5317
+2025-05-23 20:32:37,552 - INFO - 279.png | Dice: 0.7807, IoU: 0.6403, Precision: 0.9257, Recall: 0.6750
+2025-05-23 20:32:37,559 - INFO - 83.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,566 - INFO - 303.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,573 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,580 - INFO - 80.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,586 - INFO - 52.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:32:37,592 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,599 - INFO - 293.png | Dice: 0.5754, IoU: 0.4039, Precision: 1.0000, Recall: 0.4039
+2025-05-23 20:32:37,612 - INFO - 101.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:32:37,619 - INFO - 54.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:32:37,626 - INFO - 206.png | Dice: 0.6636, IoU: 0.4966, Precision: 0.4966, Recall: 1.0000
+2025-05-23 20:32:37,634 - INFO - 217.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:32:37,642 - INFO - 298.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,650 - INFO - 286.png | Dice: 0.7831, IoU: 0.6436, Precision: 1.0000, Recall: 0.6436
+2025-05-23 20:32:37,659 - INFO - 1.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:32:37,665 - INFO - 89.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,671 - INFO - 289.png | Dice: 0.7059, IoU: 0.5455, Precision: 1.0000, Recall: 0.5455
+2025-05-23 20:32:37,678 - INFO - 284.png | Dice: 0.7816, IoU: 0.6414, Precision: 0.9750, Recall: 0.6522
+2025-05-23 20:32:37,684 - INFO - 215.png | Dice: 0.0678, IoU: 0.0351, Precision: 0.1176, Recall: 0.0476
+2025-05-23 20:32:37,690 - INFO - 81.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,697 - INFO - 204.png | Dice: 0.5876, IoU: 0.4161, Precision: 0.4222, Recall: 0.9661
+2025-05-23 20:32:37,703 - INFO - 283.png | Dice: 0.7846, IoU: 0.6455, Precision: 0.9602, Recall: 0.6632
+2025-05-23 20:32:37,711 - INFO - 78.png | Dice: 0.7500, IoU: 0.6000, Precision: 0.9273, Recall: 0.6296
+2025-05-23 20:32:37,718 - INFO - 202.png | Dice: 0.5000, IoU: 0.3333, Precision: 0.3455, Recall: 0.9048
+2025-05-23 20:32:37,725 - INFO - 82.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,731 - INFO - 275.png | Dice: 0.2658, IoU: 0.1533, Precision: 1.0000, Recall: 0.1533
+2025-05-23 20:32:37,737 - INFO - 213.png | Dice: 0.6032, IoU: 0.4318, Precision: 0.7917, Recall: 0.4872
+2025-05-23 20:32:37,745 - INFO - 300.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,751 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,757 - INFO - 271.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,766 - INFO - 79.png | Dice: 0.3077, IoU: 0.1818, Precision: 1.0000, Recall: 0.1818
+2025-05-23 20:32:37,773 - INFO - 273.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,780 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,786 - INFO - 207.png | Dice: 0.6633, IoU: 0.4962, Precision: 0.5116, Recall: 0.9429
+2025-05-23 20:32:37,796 - INFO - 100.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 1.0000
+2025-05-23 20:32:37,805 - INFO - 296.png | Dice: 0.1053, IoU: 0.0556, Precision: 1.0000, Recall: 0.0556
+2025-05-23 20:32:37,813 - INFO - 50.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,820 - INFO - 291.png | Dice: 0.6687, IoU: 0.5023, Precision: 0.9569, Recall: 0.5139
+2025-05-23 20:32:37,828 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,834 - INFO - 100.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,841 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,847 - INFO - 208.png | Dice: 0.8272, IoU: 0.7054, Precision: 0.7524, Recall: 0.9186
+2025-05-23 20:32:37,853 - INFO - 1.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,861 - INFO - 278.png | Dice: 0.7778, IoU: 0.6364, Precision: 0.9390, Recall: 0.6638
+2025-05-23 20:32:37,867 - INFO - 46.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,875 - INFO - 299.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,881 - INFO - 76.png | Dice: 0.4722, IoU: 0.3091, Precision: 1.0000, Recall: 0.3091
+2025-05-23 20:32:37,888 - INFO - 87.png | Dice: 0.4977, IoU: 0.3313, Precision: 1.0000, Recall: 0.3313
+2025-05-23 20:32:37,897 - INFO - 285.png | Dice: 0.8219, IoU: 0.6977, Precision: 1.0000, Recall: 0.6977
+2025-05-23 20:32:37,904 - INFO - 216.png | Dice: 0.0000, IoU: 0.0000, Precision: 0.0000, Recall: 0.0000
+2025-05-23 20:32:37,911 - INFO - 280.png | Dice: 0.8037, IoU: 0.6718, Precision: 0.9462, Recall: 0.6984
+2025-05-23 20:32:37,919 - INFO - 214.png | Dice: 0.2500, IoU: 0.1429, Precision: 1.0000, Recall: 0.1429
+2025-05-23 20:32:37,926 - INFO - 302.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:37,934 - INFO - 48.png | Dice: 0.4671, IoU: 0.3047, Precision: 0.9590, Recall: 0.3087
+2025-05-23 20:32:37,942 - INFO - 88.png | Dice: 0.4815, IoU: 0.3171, Precision: 0.8125, Recall: 0.3421
+2025-05-23 20:32:37,950 - INFO - 281.png | Dice: 0.8366, IoU: 0.7191, Precision: 0.9552, Recall: 0.7442
+2025-05-23 20:32:37,958 - INFO - 101.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,965 - INFO - 205.png | Dice: 0.6066, IoU: 0.4354, Precision: 0.4354, Recall: 1.0000
+2025-05-23 20:32:37,973 - INFO - 10.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:37,982 - INFO - 212.png | Dice: 0.7551, IoU: 0.6066, Precision: 0.7115, Recall: 0.8043
+2025-05-23 20:32:37,990 - INFO - 295.png | Dice: 0.4044, IoU: 0.2534, Precision: 1.0000, Recall: 0.2534
+2025-05-23 20:32:37,997 - INFO - 274.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:38,008 - INFO - 84.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:38,016 - INFO - 209.png | Dice: 0.8606, IoU: 0.7553, Precision: 0.8353, Recall: 0.8875
+2025-05-23 20:32:38,025 - INFO - 47.png | Dice: 0.7186, IoU: 0.5608, Precision: 0.7901, Recall: 0.6590
+2025-05-23 20:32:38,032 - INFO - 277.png | Dice: 0.6967, IoU: 0.5346, Precision: 0.9667, Recall: 0.5446
+2025-05-23 20:32:38,039 - INFO - 211.png | Dice: 0.8413, IoU: 0.7260, Precision: 0.8154, Recall: 0.8689
+2025-05-23 20:32:38,045 - INFO - 0.png | Dice: 1.0000, IoU: 1.0000, Precision: 1.0000, Recall: 1.0000
+2025-05-23 20:32:38,052 - INFO - 86.png | Dice: 0.1463, IoU: 0.0789, Precision: 1.0000, Recall: 0.0789
+2025-05-23 20:32:38,058 - INFO - 272.png | Dice: 0.0000, IoU: 0.0000, Precision: 1.0000, Recall: 0.0000
+2025-05-23 20:32:38,059 - INFO - Generating combined visualization...
+2025-05-23 20:34:31,586 - INFO - ====== AVERAGE METRICS ======
+2025-05-23 20:34:31,588 - INFO - Dice:     0.4556
+2025-05-23 20:34:31,589 - INFO - IoU:      0.3880
+2025-05-23 20:34:31,591 - INFO - Precision:0.8384
+2025-05-23 20:34:31,591 - INFO - Recall:   0.4749
+2025-05-23 20:34:31,592 - INFO - Segmentation Inference complete.
